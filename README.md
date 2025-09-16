@@ -45,7 +45,7 @@ Previsão de entrega das Sprints e relatórios:
 
 | ID    | História do Usuário                                                                                               | Prioridade | Tipo  |
 |-------|-------------------------------------------------------------------------------------------------------------------|------------|-------|
-| US01  | Como *ONG/abrigo*, quero **publicar animais para adoção** com fotos, idade e histórico, para aumentar suas chances de adoção. | A | RF |
+| US01  | Como *ONG/abrigo/user*, quero **publicar animais para adoção** com fotos, idade e histórico, para aumentar suas chances de adoção. | A | RF |
 | US02  | Como *interessado em adoção*, quero **responder a questionários de adoção responsável** para garantir compatibilidade com o PET. | A | RF |
 | US03  | Como *tutor*, quero **registrar meu PET com informações básicas (nome, raça, idade, peso)** para controlar sua saúde. | A | RF |
 | US04  | Como *tutor*, quero **registrar vacinas, exames e consultas** para manter o histórico médico atualizado.             | A | RF |
@@ -63,7 +63,7 @@ Previsão de entrega das Sprints e relatórios:
 
 | ID    | Requisito                                                                                     | Atende à História |
 |-------|-----------------------------------------------------------------------------------------------|------------------|
-| RF01  | O sistema deve permitir que ONGs publiquem animais para adoção com informações completas.     | US01             |
+| RF01  | O sistema deve permitir que ONGs/Users publiquem animais para adoção com informações completas.     | US01             |
 | RF02  | O sistema deve disponibilizar questionários de adoção responsável.                            | US02             |
 | RF03  | O sistema deve permitir o cadastro e gerenciamento de informações do PET.                     | US03             |
 | RF04  | O sistema deve permitir o registro de vacinas, exames e consultas médicas.                    | US04             |
