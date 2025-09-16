@@ -24,6 +24,13 @@ O **Da Vinci Pets** é uma solução digital criada pela equipe **Da Vinci Team*
 
 ---
 
+## 🔗 Repositórios Relacionados
+
+* 📱 [SuperPET Mobile](https://github.com/Our-team-fatec/ABP-2025_2-Mobile)
+* 🖥️ [SuperPET Server](https://github.com/Our-team-fatec/ABP-2025_2-Back)
+
+---
+
 ### 🏁 Entregas de Sprints
 Previsão de entrega das Sprints e relatórios:
 | Sprint | Previsão de entrega | Status           | Histórico |
@@ -33,8 +40,6 @@ Previsão de entrega das Sprints e relatórios:
 | 03 | 06/11 - 24/11 | Não iniciada | [ver relatório]() |
 
 ---
-
-## 📝 Backlog do Projeto
 
 ### 📋 1. Backlog de Produto (Histórias de Usuário)
 
