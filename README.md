@@ -1,4 +1,4 @@
-# 🐾 Da Vinci Pets
+<img width="1181" height="704" alt="image" src="https://github.com/user-attachments/assets/d70f9fd1-b6d7-4b3c-afc8-f25e44cf1468" /># 🐾 Da Vinci Pets
 
 ## 📚 Sobre o Projeto
 
@@ -107,6 +107,10 @@ Previsão de entrega das Sprints e relatórios:
 - Jest
 
 ---
+
+## 🎲  4. Modelagem do banco de dados
+<img width="1181" height="704" alt="image" src="https://github.com/user-attachments/assets/821df6ff-4785-496b-bc1a-824a18deb406" />
+
 
 ## 👥 Equipe
 
