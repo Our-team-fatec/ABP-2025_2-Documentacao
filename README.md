@@ -1,4 +1,4 @@
-<img width="1181" height="704" alt="image" src="https://github.com/user-attachments/assets/d70f9fd1-b6d7-4b3c-afc8-f25e44cf1468" /># 🐾 Da Vinci Pets
+# 🐾 Da Vinci Pets
 
 ## 📚 Sobre o Projeto
 
