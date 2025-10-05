@@ -35,7 +35,7 @@ O **Da Vinci Pets** é uma solução digital criada pela equipe **Da Vinci Team*
 Previsão de entrega das Sprints e relatórios:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 16/09 - 07/10 | Em andamento | [ver relatório]() |
+| 01 | 16/09 - 07/10 | Finalizada | [ver relatório](https://github.com/Our-team-fatec/ABP-2025_2-Documentacao/tree/sprint-1) |
 | 02 | 13/10 - 03/11 | Não iniciada | [ver relatório]() |
 | 03 | 06/11 - 24/11 | Não iniciada | [ver relatório]() |
 
