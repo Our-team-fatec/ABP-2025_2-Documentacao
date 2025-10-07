@@ -2,6 +2,11 @@
 
 ## Demonstração
 
+### Mobile  
+https://github.com/user-attachments/assets/487053fc-7fb2-4df1-8b87-5d394bfe76c4
+### Back-End
+https://github.com/user-attachments/assets/d843c119-a9e6-42f8-941e-3f2f129e00d1
+
 
 ## 📦 Entregáveis
 
