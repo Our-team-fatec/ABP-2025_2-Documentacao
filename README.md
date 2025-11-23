@@ -1,8 +1,12 @@
-# 🐾 Da Vinci Pets - Sprint 2
+# 🐾 Da Vinci Pets - Sprint 3
 
 ## Link da Apresentação
 
-### https://youtu.be/O8RnjK4J4-U
+### *Em desenvolvimento*
+
+## Prints da Aplicação
+
+### *Em desenvolvimento*
 
 ---
 
@@ -10,102 +14,89 @@
 
 ### 📱 Mobile
 
-| Ref     | Entregável                                                   | Link                                                                       |
-| ------- | ------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| LAB-026 | Integração da listagem de PETS                               | [Issue #34](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/34) |
-| LAB-030 | Integração do cadastro de PET                                | [Issue #35](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/35) |
-| LAB-033 | Integração da edição de PET                                  | [Issue #36](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/36) |
-| LAB-036 | Integração da exclusão de PET                                | [Issue #37](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/37) |
-| LAB-027 | Criar telas mobile para responder e visualizar questionários | [Issue #10](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/10) |
+| Ref     | Entregável                                 | Link                                                                                                          |
+| ------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| LAB-040 | Paginação por scroll na listagem de PETs   | [Commit](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/commit/a2cd392dfdb8c9dd7976454f25941ad84c3014f7) |
+| LAB-041 | Implementação de Logout                    | [Commit](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/commit/c0cc4ae8a71cde86842e57ccb4b409948d792990) |
+| LAB-039 | Separar telas de adoção e listagem de PETs | [Issue #45](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/45)                                    |
+| LAB-042 | Busca por termo                            | [Commit](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/commit/029c8c1f92ce9b482fefd666441bd82462e545f0) |
+| LAB-043 | Integração do CRUD de adoções              | [Commit](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/commit/e280a2aed585700c07973b92b33ee667fd0b53cc) |
+| LAB-045 | Carteirinha PET                            | [Issue #13](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/13)                                    |
+| LAB-044 | Adicionar campo Contato em anúncio         | [Commit](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/commit/7200f115db920ec6cc5e7fd5b80633b450937ed8) |
+| LAB-047 | Criar telas do chatbot e integrar          | [Issue #15](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/15)                                    |
 
 ---
 
 ### ⚙️ Back-End
 
-| Ref     | Entregável                                   | Link                                                                     |
-| ------- | -------------------------------------------- | ------------------------------------------------------------------------ |
-| LAB-029 | Adicionar novos atributos em PET             | [Issue #51](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/51) |
-| QT-032  | Criar testes unitários para pets e anúncios  | [Issue #10](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/10) |
-| LAB-031 | Criar endpoints CRUD para anúncios de adoção | [Issue #17](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/17) |
-| LAB-023 | Criar modelos de Saúde e Vacina              | [Issue #16](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/16) |
-| LAB-022 | Criar endpoints CRUD para saúde e vacinas    | [Issue #17](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/17) |
+| Ref     | Entregável                   | Link                                                                     |
+| ------- | ---------------------------- | ------------------------------------------------------------------------ |
+| LAB-038 | Adicionar campo idade no PET | [Issue #63](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/63) |
+| LAB-046 | Backend do chatbot           | [Issue #27](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/27) |
 
-<br>
+---
 
 ## Planilha de tarefas - FATEC
 
-### 📅 Atividades 13/10
+### 📅 Atividades 06/11
 
-| Código  | Descrição                                                        | Link                                                                       | Autor                  |
-| ------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------- |
-| LAB-022 | Criar endpoints CRUD para saúde e vacinas                        | [Issue #17](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/17)   | Lucas Costa            |
-| LAB-023 | Criar modelos de Saúde e Vacina                                  | [Issue #16](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/16)   | Lucas Costa            |
-| LAB-024 | Criar tela mobile para detalhar pet e anúncio                    | [Issue #8](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/8)   | Murilo Gomes           |
-| LAB-025 | Criar telas mobile para listar, criar, editar e remover anúncios | [Issue #7](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/7)   | Aliceu e Lucas Roberto |
-| LAB-026 | Integração da listagem de PETS                                   | [Issue #34](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/34) | Andre Lucas            |
-| LAB-027 | Criar telas mobile para responder e visualizar questionários     | [Issue #9](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/9)   | Larissa                |
+| Código  | Descrição                    | Link                                                                                                          | Autor                        |
+| ------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| LAB-038 | Adicionar campo idade no PET | [Issue #63](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/63)                                      | Murilo Gomes e Lucas Roberto |
+| LAB-040 | Paginação conforme scroll    | [Commit](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/commit/a2cd392dfdb8c9dd7976454f25941ad84c3014f7) | Lucas Costa e Aliceu Fontana |
 
 ---
 
-### 📅 Atividades 15/10
+### 📅 Atividades 10/11
 
-| Código  | Descrição                                                        | Link                                                                       | Autor                  |
-| ------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------- |
-| LAB-024 | Criar tela mobile para detalhar pet e anúncio                    | [Issue #8](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/8)   | Murilo Gomes           |
-| LAB-025 | Criar telas mobile para listar, criar, editar e remover anúncios | [Issue #7](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/7)   | Aliceu e Lucas Roberto |
-| QT-028  | Criar testes unitários para endpoints de saúde                   | [Issue #18](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/18)   | Lucas Costa            |
-| LAB-029 | Adicionar novos atributos em PET                                 | [Issue #51](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/51)   | Lucas Costa            |
-| LAB-026 | Integração da listagem de PETS                                   | [Issue #34](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/34) | Andre Lucas            |
-| LAB-027 | Criar telas mobile para responder e visualizar questionários     | [Issue #9](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/9)   | Larissa                |
+| Código  | Descrição               | Link                                                                                                          | Autor                        |
+| ------- | ----------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| LAB-038 | Adicionar campo idade   | [Issue #63](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/63)                                      | Murilo Gomes e Lucas Roberto |
+| LAB-041 | Implementação de Logout | [Commit](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/commit/c0cc4ae8a71cde86842e57ccb4b409948d792990) | Lucas Costa e Aliceu Fontana |
 
 ---
 
-### 📅 Atividades 17/10
+### 📅 Atividades 12/11
 
-| Código  | Descrição                                                        | Link                                                                       | Autor                  |
-| ------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------- |
-| LAB-024 | Criar tela mobile para detalhar pet e anúncio                    | [Issue #8](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/8)   | Murilo Gomes           |
-| LAB-025 | Criar telas mobile para listar, criar, editar e remover anúncios | [Issue #7](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/7)   | Aliceu e Lucas Roberto |
-| LAB-031 | Criar endpoints CRUD para anúncios de adoção                     | [Issue #9](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/9)     | Lucas Costa            |
-| QT-032  | Criar testes unitários para pets e anúncios                      | [Issue #10](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/10)   | Lucas Costa            |
-| LAB-026 | Integração da listagem de PETS                                   | [Issue #34](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/34) | Andre Lucas            |
-| LAB-034 | Criar telas mobile para visualizar notificações                  | [Issue #12](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/12) | Larissa                |
+| Código  | Descrição                        | Link                                                                                                          | Autor                        |
+| ------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| LAB-039 | Separar telas de adoção/listagem | [Issue #45](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/45)                                    | Murilo Gomes                 |
+| LAB-042 | Busca por termo                  | [Commit](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/commit/029c8c1f92ce9b482fefd666441bd82462e545f0) | Lucas Costa e Aliceu Fontana |
 
 ---
 
-### 📅 Atividades 21/10
+### 📅 Atividades 14/11
 
-| Código  | Descrição                                   | Link                                                                       | Autor                  |
-| ------- | ------------------------------------------- | -------------------------------------------------------------------------- | ---------------------- |
-| LAB-035 | Criar tela mobile para informações de saúde | [Issue #11](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/11) | Aliceu e Lucas Roberto |
-| LAB-036 | Integração da exclusão de PET               | [Issue #37](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/37) | Lucas Costa            |
-
----
-
-### 📅 Atividades 23/10
-
-| Código  | Descrição                     | Link                                                                       | Autor        |
-| ------- | ----------------------------- | -------------------------------------------------------------------------- | ------------ |
-| LAB-030 | Integração do cadastro de PET | [Issue #35](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/35) | Andre Lucas  |
-| LAB-033 | Integração de edição de PET   | [Issue #36](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/36) | Lucas Costa  |
-| LAB-037 | Adicionar campo Idade no PET  | [Issue #54](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/54)   | Murilo Gomes |
+| Código  | Descrição                        | Link                                                                                                          | Autor          |
+| ------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------- |
+| LAB-039 | Separar telas de adoção/listagem | [Issue #45](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/45)                                    | Murilo Gomes   |
+| LAB-043 | Integração do CRUD de adoções    | [Commit](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/commit/e280a2aed585700c07973b92b33ee667fd0b53cc) | Lucas Costa    |
+| LAB-046 | Backend do chatbot               | [Issue #27](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/27)                                      | Lucas Roberto  |
+| LAB-045 | Carteirinha PET                  | [Issue #13](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/13)                                    | Aliceu Fontana |
 
 ---
 
-### 📅 Atividades 31/10
+### 📅 Atividades 18/11
 
-| Código  | Descrição                     | Link                                                                       | Autor        |
-| ------- | ----------------------------- | -------------------------------------------------------------------------- | ------------ |
-| LAB-030 | Integração do cadastro de PET | [Issue #35](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/35) | Andre Lucas  |
-| LAB-030 | Integração do cadastro de PET | [Issue #35](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/35) | Lucas Costa  |
-| LAB-037 | Adicionar campo Idade no PET  | [Issue #54](https://github.com/Our-team-fatec/ABP-2025_2-Back/issues/54)   | Murilo Gomes |
+| Código  | Descrição                | Link                                                                                                          | Autor                         |
+| ------- | ------------------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| LAB-045 | Carteirinha PET          | [Issue #13](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/13)                                    | Aliceu Fontana e Murilo Gomes |
+| LAB-044 | Campo Contato em anúncio | [Commit](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/commit/7200f115db920ec6cc5e7fd5b80633b450937ed8) | Lucas Costa                   |
+
+---
+
+### 📅 Atividades 24/11
+
+| Código  | Descrição                           | Link                                                                       | Autor                       |
+| ------- | ----------------------------------- | -------------------------------------------------------------------------- | --------------------------- |
+| LAB-047 | Criar telas do chatbot + integração | [Issue #15](https://github.com/Our-team-fatec/ABP-2025_2-Mobile/issues/15) | Lucas Roberto e Lucas Costa |
 
 ---
 
 ## 📉 Burndown
-<img width="2000" height="1000" alt="burndown_entregaveis_com_atividades" src="https://github.com/user-attachments/assets/a3208c59-fd3e-41e4-8ca2-58693065d62f" />
-
+<img width="1707" height="1101" alt="image" src="https://github.com/user-attachments/assets/c6e4c6cb-f762-4d86-963b-ff177146d852" />
 ---
+
 
 ## 👥 Equipe
 
