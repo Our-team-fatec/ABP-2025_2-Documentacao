@@ -79,7 +79,7 @@ Previsão de entrega das Sprints e relatórios:
 | ----- | ---------------------------------------------------------------------- | -------------------------------------------------------- |
 | RNF01 | O sistema deve estar disponível em Android.                            | US01 – ~~US09~~                                          |
 | RNF02 | O sistema deve ter interface responsiva, acessível e intuitiva.        | US01, ~~US02~~, US06, ~~US07~~, US08                     |
-| RNF03 | O sistema deve garantir segurança de dados sensíveis (LGPD).           | US03 – ~~US06~~? (Se não quiser riscar, mantenho normal) |
+| RNF03 | O sistema deve garantir segurança de dados sensíveis (LGPD).           | US03 – ~~US06~~? |
 | RNF04 | ~~O sistema deve suportar geolocalização com precisão mínima de 10m.~~ | ~~US07~~                                                 |
 
 ---
