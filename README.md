@@ -5,8 +5,13 @@
 ### *Em desenvolvimento*
 
 ## Prints da Aplicação
+<img width="413" height="897" alt="PAGE_LOGIN" src="https://github.com/user-attachments/assets/34070f7b-7a64-4b41-a8f4-ac0d2d7fad3b" />
+<img width="413" height="898" alt="PAGE_REGISTER" src="https://github.com/user-attachments/assets/c0a77ffb-67b0-4062-a224-0dd31432f455" />
+<img width="414" height="900" alt="PAGE_HOME" src="https://github.com/user-attachments/assets/06275273-f25c-45c9-adbf-08a71fb03179" />
+<img width="413" height="900" alt="PAGE_PETS" src="https://github.com/user-attachments/assets/9fafbf6f-92e1-4b16-b967-d8af1d32f11a" />
+<img width="413" height="901" alt="PAGE_ADOPTION" src="https://github.com/user-attachments/assets/5f345b18-08b0-4083-b84d-7bbdecef3a01" />
+<img width="414" height="899" alt="PAGE_BOT" src="https://github.com/user-attachments/assets/600bf33e-b488-4266-9b6b-5db092ea026e" />
 
-### *Em desenvolvimento*
 
 ---
 
